@@ -9,6 +9,7 @@ the idea of an immutable ledger using an interactive web demo that is available 
 http://andersbrownworth.com/blockchain/
 
 ## Setup
+https://litslink.com/blog/cost-to-deploy-smart-contract
 Get the code:
 
 ```
